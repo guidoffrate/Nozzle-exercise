@@ -19,3 +19,4 @@ Per la risoluzione viene utilizzata fzero()
 fzero() richiede di definire una funzione (M_i=f(A_i)) e cerca la soluzione intorno ad un punto x_0 specificato dall’utente o, come nel nostro caso, all’interno di un intervallo specificato, ad es. (0,1) o (1,5)
 
 
+![immagine](https://github.com/user-attachments/assets/3d94479b-9098-413a-8ae6-c5dc7d98b822)
